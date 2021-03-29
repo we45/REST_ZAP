@@ -10,7 +10,7 @@ jsonpath-ng==1.4.3
 jsonpointer==2.0
 jsonschema==2.6.0
 ply==3.11
-Pygments==2.2.0
+Pygments==2.7.4
 python-owasp-zap-v2.4==0.0.14
 pytz==2018.3
 PyYAML==3.12
